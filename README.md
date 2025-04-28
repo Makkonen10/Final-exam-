@@ -19,3 +19,4 @@ Samoin tuon package.json kanssa oli hieman ongelmaa ja sitä piti muokkailla jos
 
 
 
+![image](https://github.com/user-attachments/assets/28da03bb-c36f-4795-8710-5b4f590fd945)
