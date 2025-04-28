@@ -13,6 +13,9 @@ Frontendiin laitellaan terminaaliin npm starttia tai vastaavaa esim. run  // pit
 - react
 - axios
 
+------------------------------------------------------
+Tuolla kansioissa saattaa olla jotain tuplana jne kun oli välillä pientä säätöä
+Samoin tuon package.json kanssa oli hieman ongelmaa ja sitä piti muokkailla jossain kohin, joten siinäkin varmaan jotain epäselviä juttuja...
 
 
 
